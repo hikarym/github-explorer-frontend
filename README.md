@@ -1,3 +1,19 @@
+<h3 align="center">
+  Github Explorer
+</h3>
+
+<blockquote align="center">“Só deseje as coisas as quais você está disposto a lutar”!</blockquote>
+
+<p align="center">
+  <a href="#rocket-about-the-challenge">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licence">Licence</a>
+</p>
+
+## :rocket: About the project
+
+Application to see Github users information.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
